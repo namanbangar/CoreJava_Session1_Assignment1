@@ -1,0 +1,8 @@
+Class Sum {
+public static void main(String[] args)
+int numberone = 25;
+int numbertwo = 30;
+int sum = numberone + numbertw55o;
+
+system.out.println("sum of numberone and numbertwo is" +sum);
+}
